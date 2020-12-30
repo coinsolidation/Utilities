@@ -1,5 +1,7 @@
 # Utilities
 
+*******  NOTE: The User Guides you can check in directory "coinsolidation/UserGuide". *********
+
 I. OpenQbitAESEncryption.- Extension for encrytion File with algorithm AES.
 
 II. OpenQbitAESDecryption.- Extension for decrytion File with algorithm AES.
